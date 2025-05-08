@@ -36,4 +36,4 @@ The aim of this project is to classify mushrooms as edible or poisonous based on
 - **Best Model**: Random Forest (statistically significant improvement)
 
 ## Documentation
-For complete analysis and conclusions, please refer to this **[Documentation](https://github.com/omkarr7/Can-I-eat-the-mushroom/edit/main/mushroom.R)**
+For complete analysis and conclusions, please refer to this **[Documentation](https://github.com/omkarr7/Can-I-eat-the-mushroom/blob/main/Assignment3_Omkar_pawar.pdf)**
